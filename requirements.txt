@@ -1,0 +1,11 @@
+tensorflow
+opencv-python
+mediapipe
+numpy
+scikit-learn
+fastapi
+uvicorn
+python-dotenv
+langgraph
+langchain
+langchain_groq

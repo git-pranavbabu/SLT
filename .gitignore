@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.env
+
+# Data
+data/raw/
+data/processed/
+logs/
+training/logs/
+processor.log
+
+# Models (optional to ignore heavy models)
+models/*.h5
+models/*.keras
+!models/.gitkeep
+
+# IDE
+.vscode/
+.idea/
