@@ -6,15 +6,12 @@ __pycache__/
 .env
 
 # Data
-data/raw/
-data/processed/
+data/
 logs/
 training/logs/
 processor.log
 
-# Models 
-models/
-models/* 
+
 
 
 # IDE
