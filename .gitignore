@@ -12,10 +12,10 @@ logs/
 training/logs/
 processor.log
 
-# Models (optional to ignore heavy models)
-models/*.h5
-models/*.keras
-!models/.gitkeep
+# Models 
+models/
+models/* 
+
 
 # IDE
 .vscode/

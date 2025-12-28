@@ -12,7 +12,7 @@ from mediapipe.tasks.python import vision
 
 # Add root to path so we can import config
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-import config
+import config.config
 
 # --- CONFIGURATION ---
 JSON_PATH = os.path.join(config.ROOT_DIR, 'WLASL_v0.3.json')
